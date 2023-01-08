@@ -1,0 +1,15 @@
+.gitignore
+.openapi-generator-ignore
+.travis.yml
+README.md
+api/openapi.yaml
+api_payments.go
+client.go
+configuration.go
+docs/PaymentsApi.md
+git_push.sh
+go.mod
+go.sum
+response.go
+test/api_payments_test.go
+utils.go
